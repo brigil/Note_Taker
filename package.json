@@ -1,16 +1,29 @@
 {
-  "name": "note-taker",
+  "name": "note_taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "path": "^0.12.7"
-  }
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigil/Note_Taker.git"
+  },
+  "keywords": [
+    "express",
+    "node.js"
+  ],
+  "author": "brigil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brigil/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/brigil/Note_Taker#readme"
 }
