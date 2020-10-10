@@ -4,7 +4,7 @@ const htmlRoutes = require("./routes/htmlRoutes.js");
 const express = require("express");
 // express
 const app = express();
-// Port
+// Port local host 3000
 const PORT = process.env.PORT || 3000;
 
 // Express app to handle data parsing
