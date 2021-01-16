@@ -1,4 +1,4 @@
-# Note_Taker
+# Note Taker
 ## Description:
   
  Note Taker allows the user to take notes and save them in a local server. The user is also able to organize them by titles.
