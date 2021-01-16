@@ -1,8 +1,7 @@
 # Note_Taker
 ## Description:
   
-  This app allow users to take notes and save them in a local server. By using this app our users can also save their notes and organize them by titles.
-  
+ Note Taker allows the user to take notes and save them in a local server. The user is also able to organize them by titles.
   
   ## Technologies:
 
@@ -45,6 +44,7 @@
   ## Credits
   
 Brigitte Gil. https://github.com/brigil
+
 NODE. https://nodejs.org/en/
 
   
